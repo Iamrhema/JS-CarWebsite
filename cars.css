@@ -1,0 +1,16 @@
+/* description box editing */
+dialog{
+    width: 300px;
+    border-radius: 25px;
+}
+/* image editing */
+img{
+    width: 700px;
+    height: 400px;
+}
+/*containment of data   */
+#container{
+  width : 800px;
+  margin:  0 auto;
+
+}
